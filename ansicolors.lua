@@ -60,6 +60,3 @@ local colors = {
 for c, v in pairs(colors) do
     _M[c] = makecolor(v)
 end
-
-function rgb(r, g, b)
-end

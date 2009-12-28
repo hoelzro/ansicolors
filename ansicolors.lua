@@ -3,7 +3,7 @@ local tostring = tostring
 local setmetatable = setmetatable
 local schar = string.char
 
-module 'colors'
+module 'ansicolors'
 
 local colormt = {}
 

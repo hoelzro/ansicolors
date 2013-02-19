@@ -1,6 +1,9 @@
 Overview
 --------
 
+**NOTE**: This project has been superseded by https://github.com/hoelzro/lua-term; please
+use that instead of this module.
+
 ansicolors is a simple Lua module for printing to the console
 in color.
 

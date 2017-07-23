@@ -19,7 +19,7 @@ Lua interpreter will be able to find it.
 Usage
 -----
 
-    local colors = require 'ansicolors'
+    local color = require 'ansicolors'
     print(color.red 'hello')
     print(color.red .. 'hello' .. color.reset)
     print(color.red, 'hello', color.reset)
